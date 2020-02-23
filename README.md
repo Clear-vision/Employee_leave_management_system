@@ -12,7 +12,7 @@ Open phpmyadmin
 
 Create Database elms.
 Import database elms.sql(file available inside the pacakege)
-Open Your browser put inside browser “http://localhost/elms/”
+Open Your browser put inside browser "localhost/elms/”
  Login details for employee
 
 Email id : jlukondo5@gmail.com
